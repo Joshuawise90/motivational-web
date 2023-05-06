@@ -1,0 +1,17 @@
+body{background-color: black;}
+h1{color: white;}
+h1{text-transform: uppercase;}
+p{color: aliceblue;}
+img{border-radius: 10px white;}
+h1{text-align: center;}
+p{text-align: center;}
+.myimg {
+    border: 5px solid white;
+    width: 80%;
+    height: 40%;
+    margin-top: 100px;
+    margin-left: 35px;a
+}
+.poster{
+    font-family: 'Bruno Ace SC', cursive;
+}
